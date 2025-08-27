@@ -4,17 +4,7 @@
 
 **Live preview: [https://wc-artistic.netlify.app/](https://wc-artistic.netlify.app/)**
 
-**Watch on YouTube: [https://youtu.be/DTR2IbNBfPA](https://youtu.be/DTR2IbNBfPA)**
 
----
-
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
-
-Like my works and want to support me?
-
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
-
----
 
 ## Project Description
 
@@ -40,11 +30,6 @@ We will be using React Context API to toggle `dark mode` feature. Hope you enjoy
 
 You can find all the starter files in `starter-files` branch. You can to go to the `starter-files` branch and `download zip` the the starter files or You can clone the project and git checkout to `starter-files` branch.
 
-## Getting Started
-
-The recommended way to get started with the project is Follow the [YouTube tutorial](https://youtu.be/DTR2IbNBfPA). You will find all the step-by-step guides. Or you Can start the project on your own by following the guide below.
-
-After getting the starter files, you need to go the file directory and run
 
 ```shell
 npm install
